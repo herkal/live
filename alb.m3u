@@ -1,91 +1,449 @@
 #EXTM3U
-#EXTINF:-1,402(8TIP)
-http://84.22.63.14:8000/play/a00t
-#EXTINF:-1,609 (SS3)
-http://84.22.63.14:8000/play/a018
-#EXTINF:-1,511
-http://84.22.63.14:8000/play/a016
-#EXTINF:-1,406(21MAX)
-http://84.22.63.14:8000/play/a00x
-#EXTINF:-1,503
-http://84.22.63.14:8000/play/a004
-#EXTINF:-1,508
-http://84.22.63.14:8000/play/a009
-#EXTINF:-1,507
-http://84.22.63.14:8000/play/a008
-#EXTINF:-1,405(20LIFE)
-http://84.22.63.14:8000/play/a00w
-#EXTINF:-1,403(12TRINGPLANET)
-http://84.22.63.14:8000/play/a00v
-#EXTINF:-1,IN-600
-http://84.22.63.14:8000/play/a00b
-#EXTINF:-1,509
-http://84.22.63.14:8000/play/a00f
-#EXTINF:-1,604(TS-Sport1)
-http://84.22.63.14:8000/play/a00h
-#EXTINF:-1,611
-http://84.22.63.14:8000/play/a00n
-#EXTINF:-1,400(SUPER)
-http://84.22.63.14:8000/play/a00r
-#EXTINF:-1,410(80living)
-http://84.22.63.14:8000/play/a011
-#EXTINF:-1,IN-605
-http://84.22.63.14:8000/play/a00j
-#EXTINF:-1,506
-http://84.22.63.14:8000/play/a007
-#EXTINF:-1,413(ktv)
-http://84.22.63.14:8000/play/a014
-#EXTINF:-1,607(Sport-SK3)
-http://84.22.63.14:8000/play/a00m
-#EXTINF:-1,504
-http://84.22.63.14:8000/play/a005
-#EXTINF:-1,407(1Vplus)
-http://84.22.63.14:8000/play/a00y
-#EXTINF:-1,408(56-3Plus)
-http://84.22.63.14:8000/play/a00z
-#EXTINF:-1,612
-http://84.22.63.14:8000/play/a017
-#EXTINF:-1,MUX1
-http://84.22.63.14:8000/play/a01c
-#EXTINF:-1,403(9TRINGTRING)
-http://84.22.63.14:8000/play/a00u
-#EXTINF:-1,OUT-605
-http://84.22.63.14:8000/play/a00k
-#EXTINF:-1,600
-http://84.22.63.14:8000/play/a00c
-#EXTINF:-1,505 (DG Cufo)
-http://84.22.63.14:8000/play/a006
-#EXTINF:-1,test
-http://84.22.63.14:8000/play/a021
-#EXTINF:-1,MUX2
-http://84.22.63.14:8000/play/a01e
-#EXTINF:-1,IN-501
-http://84.22.63.14:8000/play/a001
-#EXTINF:-1,501
-http://84.22.63.14:8000/play/a002
-#EXTINF:-1,409(66WORLD)
-http://84.22.63.14:8000/play/a010
-#EXTINF:-1,MUX11
-http://84.22.63.14:8000/play/a01d
-#EXTINF:-1,MUX6
-http://84.22.63.14:8000/play/a01b
-#EXTINF:-1,610(Sport-TS-S2)
-http://84.22.63.14:8000/play/a01g
-#EXTINF:-1,502(DG Bang)
-http://84.22.63.14:8000/play/a003
-#EXTINF:-1,709(TRTCOCUK)
-http://84.22.63.14:8000/play/a00p
-#EXTINF:-1,IN-601
-http://84.22.63.14:8000/play/a00e
-#EXTINF:-1,401(5COMEDY)
-http://84.22.63.14:8000/play/a00s
-#EXTINF:-1,OUT-606
-http://84.22.63.14:8000/play/a00l
-#EXTINF:-1,412(999Kanal7)
-http://84.22.63.14:8000/play/a013
-#EXTINF:-1,411(88Shqip)
-http://84.22.63.14:8000/play/a012
-#EXTINF:-1,OUT-601
-http://84.22.63.14:8000/play/a00i
-#EXTINF:-1,510 (DG Aksion)
-http://84.22.63.14:8000/play/a00g
+#EXTINF:-1,Alb:Super Sport 4 HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/340.ts
+#EXTINF:-1,Alb:Super Sport 3 HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/339.ts
+#EXTINF:-1,Alb:Super Sport 2 HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/338.ts
+#EXTINF:-1,Alb:Super Sport 1 HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/337.ts
+#EXTINF:-1,AL : TRING TRING
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2122.ts
+#EXTINF:-1,AL : TRING SUPER
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2123.ts
+#EXTINF:-1,AL : TRING KOMEDI
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2124.ts
+#EXTINF:-1,AL : TRING HISTORI
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2125.ts
+#EXTINF:-1,AL : TRING FANTASY
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2126.ts
+#EXTINF:-1,AL : Super Sport Kosovo 2 HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2127.ts
+#EXTINF:-1,AL : Super Sport Kosovo 1 HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2128.ts
+#EXTINF:-1,AL : Super Sport 2
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2129.ts
+#EXTINF:-1,AL : Super Sport 1
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2130.ts
+#EXTINF:-1,AL : RTV 21
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2131.ts
+#EXTINF:-1,AL : RTK
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2132.ts
+#EXTINF:-1,AL : Ora News
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2133.ts
+#EXTINF:-1,AL : News 24
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2134.ts
+#EXTINF:-1,AL : National Geographic
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2135.ts
+#EXTINF:-1,AL : KTV HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2136.ts
+#EXTINF:-1,AL : JOLLY HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2138.ts
+#EXTINF:-1,AL : FILM THRILLER
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2139.ts
+#EXTINF:-1,AL : FILM GOLD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2140.ts
+#EXTINF:-1,AL : FILM DY
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2141.ts
+#EXTINF:-1,AL : FILM DRAME
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2142.ts
+#EXTINF:-1,AL : EXP HISTORI
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2144.ts
+#EXTINF:-1,AL : DIGI GOLD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2145.ts
+#EXTINF:-1,5USA
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/386.ts
+#EXTINF:-1,(DE) : Eurosport 2 HD Germany
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/520.ts
+#EXTINF:-1,AL: Tring Sport 3 HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3367.ts
+#EXTINF:-1,AL: Tring Sport 2 HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3368.ts
+#EXTINF:-1,AL: Film Nje HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3360.ts
+#EXTINF:-1,AL: Film Hits HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3361.ts
+#EXTINF:-1,AL: Film Autor HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3365.ts
+#EXTINF:-1,AL: Film Aksion HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3366.ts
+#EXTINF:-1,AL: Film Komedi HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3364.ts
+#EXTINF:-1,UK : CNN
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3134.ts
+#EXTINF:-1,AL:  Top News
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3471.ts
+#EXTINF:-1,AL:Sky Komedi
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3439.ts
+#EXTINF:-1,AL:Sky Histori
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3438.ts
+#EXTINF:-1,AL:Sky AL Max
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3436.ts
+#EXTINF:-1,AL:ON TV
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3426.ts
+#EXTINF:-1,AL:Ksport Drame (test)
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3452.ts
+#EXTINF:-1,AL:IN Cine Mania TV
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3470.ts
+#EXTINF:-1,AL: Zjarr TV
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3461.ts
+#EXTINF:-1,AL: Vizion Plus Toksor
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3424.ts
+#EXTINF:-1,AL: Vizion Plus HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3423.ts
+#EXTINF:-1,AL: Tring 3
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3458.ts
+#EXTINF:-1,AL: Tele Sport
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3454.ts
+#EXTINF:-1,AL: Sky Shkence
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3440.ts
+#EXTINF:-1,AL: Sky Comedy
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3437.ts
+#EXTINF:-1,AL: Sky Aksion
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3435.ts
+#EXTINF:-1,AL: RTV 21 Popullore
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3467.ts
+#EXTINF:-1,AL: RTV 21 Mix HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3464.ts
+#EXTINF:-1,AL: RTV 21 Maqedonia
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3465.ts
+#EXTINF:-1,AL: RTV 21 Junior
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3466.ts
+#EXTINF:-1,AL: RTSH Sport HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3453.ts
+#EXTINF:-1,AL: Rrokum TV
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3472.ts
+#EXTINF:-1,AL: Report TV
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3463.ts
+#EXTINF:-1,AL: PLUS HD(Digitalb)
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3431.ts
+#EXTINF:-1,AL: Plus HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3441.ts
+#EXTINF:-1,AL: ORA News
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3457.ts
+#EXTINF:-1,AL: News 24
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3456.ts
+#EXTINF:-1,AL: NatGeo-Digitalb
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3430.ts
+#EXTINF:-1,AL: Living HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3460.ts
+#EXTINF:-1,AL: KLAN Plus
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3422.ts
+#EXTINF:-1,AL: Klan Kosova Toksor
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3419.ts
+#EXTINF:-1,AL: KLAN Kosova HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3420.ts
+#EXTINF:-1,AL: KLAN HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3421.ts
+#EXTINF:-1,AL: Kino Thriller HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3447.ts
+#EXTINF:-1,AL: Kino Scifi HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3448.ts
+#EXTINF:-1,AL: Kino RomancÃ« HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3449.ts
+#EXTINF:-1,AL: Kino Premiere 3 HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3446.ts
+#EXTINF:-1,AL: Kino Premiere 2 HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3445.ts
+#EXTINF:-1,AL: Kino Premiere 1 HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3444.ts
+#EXTINF:-1,AL: Kino Family HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3450.ts
+#EXTINF:-1,AL: Kino Dark HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3451.ts
+#EXTINF:-1,AL: Kino Comedy HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3442.ts
+#EXTINF:-1,AL: Kino Action
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3443.ts
+#EXTINF:-1,AL: Junior TV
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3468.ts
+#EXTINF:-1,AL: JUG TV
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3459.ts
+#EXTINF:-1,AL: First TV
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3469.ts
+#EXTINF:-1,AL: Explorer Shkenc
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3432.ts
+#EXTINF:-1,AL: Explorer Natyra
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3433.ts
+#EXTINF:-1,AL: Explorer Histori
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3434.ts
+#EXTINF:-1,AL: Cufo
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3425.ts
+#EXTINF:-1,AL: ALB UK HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3428.ts
+#EXTINF:-1,AL: ALB UK
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3429.ts
+#EXTINF:-1,AL: ALB ANIME
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3427.ts
+#EXTINF:-1,AL: ABC News
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3455.ts
+#EXTINF:-1,AL: A1 SHQIPTARE
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3462.ts
+#EXTINF:-1,AL : WesterN
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3411.ts
+#EXTINF:-1,AL : Tring World
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3394.ts
+#EXTINF:-1,AL : TRING SPORT 4 HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3395.ts
+#EXTINF:-1,AL : TRING SPORT 1 HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3396.ts
+#EXTINF:-1,AL : Tring Shqip
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3397.ts
+#EXTINF:-1,AL : Tring Planet
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3398.ts
+#EXTINF:-1,AL : Tring Max
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3399.ts
+#EXTINF:-1,AL : Tring Life
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3400.ts
+#EXTINF:-1,AL : Tring Comedy
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3401.ts
+#EXTINF:-1,AL : Top Channel HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3402.ts
+#EXTINF:-1,AL : Thriller
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3412.ts
+#EXTINF:-1,AL : SuperSport 6
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3403.ts
+#EXTINF:-1,AL : SuperSport 5
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3404.ts
+#EXTINF:-1,AL : SuperSport 4
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3405.ts
+#EXTINF:-1,AL : SuperSport 3
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3406.ts
+#EXTINF:-1,AL : Nat Geographic
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3407.ts
+#EXTINF:-1,AL : Humor 2
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3413.ts
+#EXTINF:-1,AL : Humor
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3414.ts
+#EXTINF:-1,AL : Hindi
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3415.ts
+#EXTINF:-1,AL : Classic
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3416.ts
+#EXTINF:-1,AL : Camel TV
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3408.ts
+#EXTINF:-1,AL : Burimi TV
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3409.ts
+#EXTINF:-1,AL : BB11 Muzik
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3410.ts
+#EXTINF:-1,AL : Anime
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3417.ts
+#EXTINF:-1,AL : Action
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3418.ts
+#EXTINF:-1,EX-YU: Al Jazeera Balkan
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3608.ts
+#EXTINF:-1,EX-YU: Sportska TV
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3606.ts
+#EXTINF:-1,EX-YU: SPORTKLUB 6 SD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3600.ts
+#EXTINF:-1,EX-YU: SPORTKLUB 5 SD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3601.ts
+#EXTINF:-1,EX-YU: SPORTKLUB 4 SD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3602.ts
+#EXTINF:-1,EX-YU: Sport Klub 3
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3603.ts
+#EXTINF:-1,EX-YU: Sport Klub 2
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3604.ts
+#EXTINF:-1,EX-YU: Sport Klub 1
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3605.ts
+#EXTINF:-1,EX-YU: RTV Zenica
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3594.ts
+#EXTINF:-1,EX-YU: RTV USK
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3595.ts
+#EXTINF:-1,EX-YU: RTS HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3596.ts
+#EXTINF:-1,EX-YU: RTS 3
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3597.ts
+#EXTINF:-1,EX-YU: RTS 2 (local)
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3598.ts
+#EXTINF:-1,EX-YU: RTS 1 (local)
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3599.ts
+#EXTINF:-1,EX-YU: Prva Plus
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3553.ts
+#EXTINF:-1,EX-YU: Pink Zabava
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3495.ts
+#EXTINF:-1,EX-YU: Pink World
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3496.ts
+#EXTINF:-1,EX-YU: Pink Western
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3570.ts
+#EXTINF:-1,EX-YU: Pink Thriller
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3571.ts
+#EXTINF:-1,EX-YU: Pink Super Kids
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3497.ts
+#EXTINF:-1,EX-YU: Pink Soap
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3498.ts
+#EXTINF:-1,EX-YU: Pink Show
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3499.ts
+#EXTINF:-1,EX-YU: Pink Serije
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3564.ts
+#EXTINF:-1,EX-YU: Pink Sci-Fi&Fantasy
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3500.ts
+#EXTINF:-1,EX-YU: Pink Sci-Fi & Fantasy
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3573.ts
+#EXTINF:-1,EX-YU: Pink Romance
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3572.ts
+#EXTINF:-1,EX-YU: Pink Reality
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3574.ts
+#EXTINF:-1,EX-YU: Pink Premium
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3575.ts
+#EXTINF:-1,EX-YU: Pink Plus
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3501.ts
+#EXTINF:-1,EX-YU: Pink Pedia
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3569.ts
+#EXTINF:-1,EX-YU: Pink Music 2
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3502.ts
+#EXTINF:-1,EX-YU: Pink Music
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3503.ts
+#EXTINF:-1,EX-YU: Pink Movies
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3568.ts
+#EXTINF:-1,EX-YU: Pink M
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3504.ts
+#EXTINF:-1,EX-YU: Pink Kuvar
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3505.ts
+#EXTINF:-1,EX-YU: Pink Koncert
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3506.ts
+#EXTINF:-1,EX-YU: Pink Kids
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3507.ts
+#EXTINF:-1,EX-YU: Pink Horror
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3567.ts
+#EXTINF:-1,EX-YU: Pink Hits 2
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3508.ts
+#EXTINF:-1,EX-YU: Pink Folk 2
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3509.ts
+#EXTINF:-1,EX-YU: Pink Folk
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3510.ts
+#EXTINF:-1,EX-YU: Pink Film
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3566.ts
+#EXTINF:-1,EX-YU: Pink Extra
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3565.ts
+#EXTINF:-1,EX-YU: Pink Crime & Mystery
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3576.ts
+#EXTINF:-1,EX-YU: Pink Comedy
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3512.ts
+#EXTINF:-1,EX-YU: Pink BH
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3577.ts
+#EXTINF:-1,EX-YU: Pink Action
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3563.ts
+#EXTINF:-1,EX-YU: PINK 3
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3513.ts
+#EXTINF:-1,EX-YU: Pink 2
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3561.ts
+#EXTINF:-1,EX-YU: Pink & Roll
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3515.ts
+#EXTINF:-1,EX-YU: Pink 1
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3560.ts
+#EXTINF:-1,EX-YU: Nickelodeon
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3535.ts
+#EXTINF:-1,EX-YU: National Geographic
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3536.ts
+#EXTINF:-1,EX-YU: Nat Geo Wild
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3537.ts
+#EXTINF:-1,EX-YU: MTV Igman
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3578.ts
+#EXTINF:-1,EX-YU: MTV Adria
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3579.ts
+#EXTINF:-1,EX-YU: MRTV 3 MK
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3580.ts
+#EXTINF:-1,EX-YU: MRT 2 (local)
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3581.ts
+#EXTINF:-1,EX-YU: MRT 1 (local)
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3582.ts
+#EXTINF:-1,EX-YU: Minimax/Cinemania
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3583.ts
+#EXTINF:-1,EX-YU: Mini TV HR
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3584.ts
+#EXTINF:-1,EX-YU: Mini TV
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3585.ts
+#EXTINF:-1,EX-YU: Mim TV
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3586.ts
+#EXTINF:-1,EX-YU: MGM
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3587.ts
+#EXTINF:-1,EX-YU: LOV I RIBOLOV
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3588.ts
+#EXTINF:-1,EX-YU: KLASIK TV
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3589.ts
+#EXTINF:-1,EX-YU: KCN 3
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3590.ts
+#EXTINF:-1,EX-YU: KCN 2
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3591.ts
+#EXTINF:-1,EX-YU: KCN 1
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3592.ts
+#EXTINF:-1,EX-YU: HRT 1
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3542.ts
+#EXTINF:-1,EX-YU: Fox Movies
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3517.ts
+#EXTINF:-1,EX-YU: Fox Life
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3516.ts
+#EXTINF:-1,EX-YU: Fox Crime
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3518.ts
+#EXTINF:-1,EX-YU: FOX
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3519.ts
+#EXTINF:-1,EX-YU: FilmBox Extra
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3520.ts
+#EXTINF:-1,EX-YU: FILMBOX
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3521.ts
+#EXTINF:-1,EX-YU: Film Klub
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3522.ts
+#EXTINF:-1,EX-YU: Fightbox
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3523.ts
+#EXTINF:-1,EX-YU: Federalna TV
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3524.ts
+#EXTINF:-1,EX-YU: Fastnfun Box
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3525.ts
+#EXTINF:-1,EX-YU: FACE TV
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3526.ts
+#EXTINF:-1,EX-YU: Eurosport 2
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3527.ts
+#EXTINF:-1,EX-YU: Eurosport 1
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3528.ts
+#EXTINF:-1,EX-YU: Discovery Channel
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3529.ts
+#EXTINF:-1,EX-YU: Da Vinci Learning
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3530.ts
+#EXTINF:-1,EX-YU: Pink Crime  & Mistery
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3531.ts
+#EXTINF:-1,EX-YU: Comedy Central
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3532.ts
+#EXTINF:-1,EX-YU: CMC
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3533.ts
+#EXTINF:-1,EX-YU: Cinestar Premiere 1
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3534.ts
+#EXTINF:-1,EX-YU: Cinestar Premier 2
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3556.ts
+#EXTINF:-1,EX-YU: Cinestar Action
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3555.ts
+#EXTINF:-1,EX-YU: BN Music
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3549.ts
+#EXTINF:-1,EX-YU: BHT
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3552.ts
+#EXTINF:-1,EX-YU: ANIMAL PLANET
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3593.ts
+#EXTINF:-1,EX-YU : PINK 3
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3562.ts
+#EXTINF:-1,EX YU: RTL 2
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3558.ts
+#EXTINF:-1,EX YU: RTL
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3559.ts
+#EXTINF:-1,EX YU: NOVA TV HR
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3538.ts
+#EXTINF:-1,EX YU: HRT 4
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3539.ts
+#EXTINF:-1,EX YU: HRT 3
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3540.ts
+#EXTINF:-1,EX YU: HRT 2
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3541.ts
+#EXTINF:-1,EX YU: HISTORY CHANNEL
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3543.ts
+#EXTINF:-1,EX YU: HBO Adria
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3544.ts
+#EXTINF:-1,EX YU: HBO 2
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3545.ts
+#EXTINF:-1,EX YU: DOMA-TV
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3546.ts
+#EXTINF:-1,EX YU: CINEMAX-2
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3550.ts
+#EXTINF:-1,EX YU: CINEMAX 1
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3551.ts
+#EXTINF:-1,DE : RTL HD
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3607.ts
+#EXTINF:-1,DE : TNT Comedy
+http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3473.ts
